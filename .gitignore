@@ -20,7 +20,6 @@ packages/
 *.out
 *.bak
 *.dep
-*.lib
 *.i
 *.d
 .DS_Stor*
